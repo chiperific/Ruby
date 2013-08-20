@@ -6,6 +6,7 @@
 **Rules:** Output a set of numbers (say, 1-15), but whenever a number is divisible by 3, you output “Fizz” instead. If it’s divisible by 5, you output “Buzz” instead. If it’s divisible by 3 and 5, you output “FizzBuzz” instead.
 
 ** Steps: **
+
 1. Accomplish this through a simple script.
     * [fizzbuzz_s1.rb](https://github.com/chiperific/Ruby/blob/master/fizzbuzz_s1.rb)
 2. Write that script inside a single method that accepts an argument of how many numbers to output.
